@@ -4,7 +4,7 @@ particle==0.25.0
 pennylane==0.37.0
 torchdata==0.7.1
 torchvision==0.17.0
-qiskit==0.46.0
+qiskit==1.4.2
 torchquantum==0.1.8
 qiskit-ibm-runtime==0.18.0
 qiskit-aer==0.13.2
